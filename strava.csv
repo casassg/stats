@@ -1,73 +1,73 @@
-ActivityTime,DistanceMeters,ElapsedTime,ElapsedSeconds,Type
-"August 24, 2022 at 03:55PM",6174.8,"41 minutes, 36 seconds",2496,Run
-"August 25, 2022 at 03:20AM",491.3,"9 minutes, 57 seconds",597,Ride
-"August 26, 2022 at 03:52AM",1587.7,13 minutes,780,Ride
-"August 26, 2022 at 03:43PM",6234.5,"34 minutes, 59 seconds",2099,Run
-"August 26, 2022 at 06:22PM",1998,"8 minutes, 29 seconds",509,Ride
-"August 27, 2022 at 08:04PM",1834.2,"1 hour, 7 minutes, 55 seconds",4075,Hike
-"August 30, 2022 at 01:29AM",1237.2,"5 minutes, 19 seconds",319,Ride
-"August 30, 2022 at 02:55AM",2983.9,"17 minutes, 24 seconds",1044,Run
-"August 30, 2022 at 03:46PM",6158.8,"41 minutes, 7 seconds",2467,Run
-"August 31, 2022 at 02:33AM",727.4,"2 minutes, 29 seconds",149,Ride
-"September 1, 2022 at 03:55AM",1572,"11 minutes, 39 seconds",699,Ride
-"September 1, 2022 at 05:50PM",1725.4,"7 minutes, 14 seconds",434,Ride
-"September 2, 2022 at 01:43AM",1014.3,"10 minutes, 16 seconds",616,Ride
-"September 6, 2022 at 03:36PM",6509.7,"43 minutes, 35 seconds",2615,Run
-"September 8, 2022 at 03:41AM",2552.4,"12 minutes, 22 seconds",742,Ride
-"September 9, 2022 at 03:47PM",8180.9,"45 minutes, 14 seconds",2714,Run
-"September 11, 2022 at 06:07PM",13084.3,"1 hour, 14 minutes, 35 seconds",4475,Run
-"September 13, 2022 at 03:53PM",4950,"30 minutes, 52 seconds",1852,Run
-"September 14, 2022 at 04:03PM",11067.2,"1 hour, 2 seconds",3602,Run
-"September 15, 2022 at 04:19PM",2639.3,"14 minutes, 59 seconds",899,Run
-"September 15, 2022 at 05:45PM",2689.4,"15 minutes, 21 seconds",921,Ride
-"September 16, 2022 at 06:07PM",1837.8,"6 minutes, 51 seconds",411,Ride
-"September 17, 2022 at 02:11AM",1413.4,"6 minutes, 11 seconds",371,Ride
-"September 18, 2022 at 11:36PM",17037.9,"1 hour, 36 minutes, 29 seconds",5789,Run
-"September 20, 2022 at 03:51PM",2491.3,"15 minutes, 3 seconds",903,Run
-"September 22, 2022 at 03:41PM",10768,"1 hour, 11 minutes, 11 seconds",4271,Run
-"September 22, 2022 at 05:48PM",2586.7,"12 minutes, 5 seconds",725,Ride
-"September 23, 2022 at 03:24AM",2874.9,"12 minutes, 6 seconds",726,Ride
-"September 23, 2022 at 04:58PM",3933.2,"24 minutes, 48 seconds",1488,Run
-"September 23, 2022 at 06:31PM",2942.7,"12 minutes, 3 seconds",723,Ride
-"September 24, 2022 at 03:13AM",2780.4,"12 minutes, 16 seconds",736,Ride
-"September 25, 2022 at 06:26PM",15980.8,"1 hour, 37 minutes, 33 seconds",5853,Run
-"September 26, 2022 at 04:46PM",4361.4,"24 minutes, 28 seconds",1468,Run
-"September 27, 2022 at 04:10PM",5867,"41 minutes, 44 seconds",2504,Run
-"September 27, 2022 at 05:28PM",2868.3,"11 minutes, 20 seconds",680,Ride
-"September 28, 2022 at 02:54AM",2890.6,"13 minutes, 17 seconds",797,Ride
-"September 29, 2022 at 03:54PM",5002.6,"27 minutes, 34 seconds",1654,Run
-"September 30, 2022 at 04:09PM",4620.2,"31 minutes, 54 seconds",1914,Run
-"October 2, 2022 at 07:30PM",10871.5,"1 hour, 6 seconds",3606,Run
-"October 3, 2022 at 04:13PM",2566.1,"15 minutes, 4 seconds",904,Run
-"October 3, 2022 at 05:25PM",2825.7,"11 minutes, 32 seconds",692,Ride
-"October 4, 2022 at 07:14PM",2728.8,"12 minutes, 42 seconds",762,Ride
-"October 5, 2022 at 06:19PM",1628.9,"6 minutes, 48 seconds",408,Ride
-"October 6, 2022 at 01:45AM",1388.4,"5 minutes, 12 seconds",312,Ride
-"October 6, 2022 at 02:05AM",3651.1,"26 minutes, 57 seconds",1617,Run
-"October 6, 2022 at 03:58PM",4370.3,"24 minutes, 56 seconds",1496,Run
-"October 9, 2022 at 01:35AM",3365.9,"18 minutes, 58 seconds",1138,Run
-"October 9, 2022 at 04:19PM",21177.1,"1 hour, 59 minutes, 21 seconds",7161,Run
-"October 18, 2022 at 02:01AM",4405.2,"23 minutes, 48 seconds",1428,Run
-"October 18, 2022 at 05:15PM",1251.4,"5 minutes, 10 seconds",310,Ride
-"October 21, 2022 at 04:20PM",4991.6,"27 minutes, 47 seconds",1667,Run
-"October 22, 2022 at 03:36AM",1979,"11 minutes, 43 seconds",703,Ride
-"October 26, 2022 at 01:59AM",6002.8,"34 minutes, 54 seconds",2094,Run
-"October 26, 2022 at 05:06PM",1211.6,"9 minutes, 52 seconds",592,Ride
-"October 27, 2022 at 11:21PM",4345.1,"30 minutes, 24 seconds",1824,Run
-"October 29, 2022 at 03:23AM",1970.9,"10 minutes, 17 seconds",617,Ride
-"October 31, 2022 at 04:13PM",1481.8,"5 minutes, 59 seconds",359,Ride
-"November 3, 2022 at 01:04AM",8631.5,"50 minutes, 49 seconds",3049,Run
-"November 3, 2022 at 10:01PM",1120.5,"5 minutes, 7 seconds",307,Ride
-"November 4, 2022 at 01:51AM",2416.6,"12 minutes, 42 seconds",762,Ride
-"November 10, 2022 at 12:33AM",5664.2,"30 minutes, 8 seconds",1808,Run
-"November 21, 2022 at 07:10PM",6278,"34 minutes, 10 seconds",2050,Run
-"November 22, 2022 at 08:11PM",5847.7,"32 minutes, 2 seconds",1922,Run
-"November 23, 2022 at 08:31PM",3652.5,"22 minutes, 22 seconds",1342,Run
-"November 27, 2022 at 10:28PM",7232.9,"41 minutes, 32 seconds",2492,Run
-"December 3, 2022 at 05:29PM",23089.1,"2 hours, 35 minutes, 39 seconds",9339,AlpineSki
-"December 5, 2022 at 06:16PM",4732.7,"25 minutes, 54 seconds",1554,Run
-"December 17, 2022 at 07:26PM",20185.9,"1 hour, 54 minutes, 31 seconds",6871,AlpineSki
-"December 17, 2022 at 11:03PM",3889.2,"1 hour, 9 minutes, 12 seconds",4152,AlpineSki
-"December 27, 2022 at 01:07PM",5777.7,"34 minutes, 40 seconds",2080,Run
-"January 3, 2023 at 12:33PM",6198.7,"35 minutes, 50 seconds",2150,Run
-"January 7, 2023 at 08:01PM",9008,"52 minutes, 57 seconds",3177,Run
+ActivityTime,DistanceMeters,ElapsedTime,ElapsedSeconds,Type,ActivityHour
+"August 24, 2022",6174.8,"41 minutes, 36 seconds",2496,Run,3:55PM
+"August 25, 2022",491.3,"9 minutes, 57 seconds",597,Ride,3:20AM
+"August 26, 2022",1587.7,13 minutes,780,Ride,3:52AM
+"August 26, 2022",6234.5,"34 minutes, 59 seconds",2099,Run,3:43PM
+"August 26, 2022",1998,"8 minutes, 29 seconds",509,Ride,6:22PM
+"August 27, 2022",1834.2,"1 hour, 7 minutes, 55 seconds",4075,Hike,8:04PM
+"August 30, 2022",1237.2,"5 minutes, 19 seconds",319,Ride,1:29AM
+"August 30, 2022",2983.9,"17 minutes, 24 seconds",1044,Run,2:55AM
+"August 30, 2022",6158.8,"41 minutes, 7 seconds",2467,Run,3:46PM
+"August 31, 2022",727.4,"2 minutes, 29 seconds",149,Ride,2:33AM
+"September 1, 2022",1572,"11 minutes, 39 seconds",699,Ride,3:55AM
+"September 1, 2022",1725.4,"7 minutes, 14 seconds",434,Ride,5:50PM
+"September 2, 2022",1014.3,"10 minutes, 16 seconds",616,Ride,1:43AM
+"September 6, 2022",6509.7,"43 minutes, 35 seconds",2615,Run,3:36PM
+"September 8, 2022",2552.4,"12 minutes, 22 seconds",742,Ride,3:41AM
+"September 9, 2022",8180.9,"45 minutes, 14 seconds",2714,Run,3:47PM
+"September 11, 2022",13084.3,"1 hour, 14 minutes, 35 seconds",4475,Run,6:07PM
+"September 13, 2022",4950,"30 minutes, 52 seconds",1852,Run,3:53PM
+"September 14, 2022",11067.2,"1 hour, 2 seconds",3602,Run,4:03PM
+"September 15, 2022",2639.3,"14 minutes, 59 seconds",899,Run,4:19PM
+"September 15, 2022",2689.4,"15 minutes, 21 seconds",921,Ride,5:45PM
+"September 16, 2022",1837.8,"6 minutes, 51 seconds",411,Ride,6:07PM
+"September 17, 2022",1413.4,"6 minutes, 11 seconds",371,Ride,2:11AM
+"September 18, 2022",17037.9,"1 hour, 36 minutes, 29 seconds",5789,Run,1:36PM
+"September 20, 2022",2491.3,"15 minutes, 3 seconds",903,Run,3:51PM
+"September 22, 2022",10768,"1 hour, 11 minutes, 11 seconds",4271,Run,3:41PM
+"September 22, 2022",2586.7,"12 minutes, 5 seconds",725,Ride,5:48PM
+"September 23, 2022",2874.9,"12 minutes, 6 seconds",726,Ride,3:24AM
+"September 23, 2022",3933.2,"24 minutes, 48 seconds",1488,Run,4:58PM
+"September 23, 2022",2942.7,"12 minutes, 3 seconds",723,Ride,6:31PM
+"September 24, 2022",2780.4,"12 minutes, 16 seconds",736,Ride,3:13AM
+"September 25, 2022",15980.8,"1 hour, 37 minutes, 33 seconds",5853,Run,6:26PM
+"September 26, 2022",4361.4,"24 minutes, 28 seconds",1468,Run,4:46PM
+"September 27, 2022",5867,"41 minutes, 44 seconds",2504,Run,4:10PM
+"September 27, 2022",2868.3,"11 minutes, 20 seconds",680,Ride,5:28PM
+"September 28, 2022",2890.6,"13 minutes, 17 seconds",797,Ride,2:54AM
+"September 29, 2022",5002.6,"27 minutes, 34 seconds",1654,Run,3:54PM
+"September 30, 2022",4620.2,"31 minutes, 54 seconds",1914,Run,4:09PM
+"October 2, 2022",10871.5,"1 hour, 6 seconds",3606,Run,7:30PM
+"October 3, 2022",2566.1,"15 minutes, 4 seconds",904,Run,4:13PM
+"October 3, 2022",2825.7,"11 minutes, 32 seconds",692,Ride,5:25PM
+"October 4, 2022",2728.8,"12 minutes, 42 seconds",762,Ride,7:14PM
+"October 5, 2022",1628.9,"6 minutes, 48 seconds",408,Ride,6:19PM
+"October 6, 2022",1388.4,"5 minutes, 12 seconds",312,Ride,1:45AM
+"October 6, 2022",3651.1,"26 minutes, 57 seconds",1617,Run,2:05AM
+"October 6, 2022",4370.3,"24 minutes, 56 seconds",1496,Run,3:58PM
+"October 9, 2022",3365.9,"18 minutes, 58 seconds",1138,Run,1:35AM
+"October 9, 2022",21177.1,"1 hour, 59 minutes, 21 seconds",7161,Run,4:19PM
+"October 18, 2022",4405.2,"23 minutes, 48 seconds",1428,Run,2:01AM
+"October 18, 2022",1251.4,"5 minutes, 10 seconds",310,Ride,5:15PM
+"October 21, 2022",4991.6,"27 minutes, 47 seconds",1667,Run,4:20PM
+"October 22, 2022",1979,"11 minutes, 43 seconds",703,Ride,3:36AM
+"October 26, 2022",6002.8,"34 minutes, 54 seconds",2094,Run,1:59AM
+"October 26, 2022",1211.6,"9 minutes, 52 seconds",592,Ride,5:06PM
+"October 27, 2022",4345.1,"30 minutes, 24 seconds",1824,Run,1:21PM
+"October 29, 2022",1970.9,"10 minutes, 17 seconds",617,Ride,3:23AM
+"October 31, 2022",1481.8,"5 minutes, 59 seconds",359,Ride,4:13PM
+"November 3, 2022",8631.5,"50 minutes, 49 seconds",3049,Run,1:04AM
+"November 3, 2022",1120.5,"5 minutes, 7 seconds",307,Ride,0:01PM
+"November 4, 2022",2416.6,"12 minutes, 42 seconds",762,Ride,1:51AM
+"November 10, 2022",5664.2,"30 minutes, 8 seconds",1808,Run,2:33AM
+"November 21, 2022",6278,"34 minutes, 10 seconds",2050,Run,7:10PM
+"November 22, 2022",5847.7,"32 minutes, 2 seconds",1922,Run,8:11PM
+"November 23, 2022",3652.5,"22 minutes, 22 seconds",1342,Run,8:31PM
+"November 27, 2022",7232.9,"41 minutes, 32 seconds",2492,Run,0:28PM
+"December 3, 2022",23089.1,"2 hours, 35 minutes, 39 seconds",9339,AlpineSki,5:29PM
+"December 5, 2022",4732.7,"25 minutes, 54 seconds",1554,Run,6:16PM
+"December 17, 2022",20185.9,"1 hour, 54 minutes, 31 seconds",6871,AlpineSki,7:26PM
+"December 17, 2022",3889.2,"1 hour, 9 minutes, 12 seconds",4152,AlpineSki,1:03PM
+"December 27, 2022",5777.7,"34 minutes, 40 seconds",2080,Run,1:07PM
+"January 3, 2023",6198.7,"35 minutes, 50 seconds",2150,Run,2:33PM
+"January 7, 2023",9008,"52 minutes, 57 seconds",3177,Run,8:01PM
