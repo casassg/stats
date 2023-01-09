@@ -13,3 +13,7 @@ Still work in progress.
 Activities from strava captured on a spreadsheet. I use IFTTT Strava -> Google Sheet to store it.
 
 
+--------
+Uses [GitHub Next Flat Data](https://githubnext.com/projects/flat-data#why-flat-data).
+
+
