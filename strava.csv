@@ -1,73 +1,73 @@
-ActivityTime,DistanceMeters,ElapsedTime,ElapsedSeconds,Type,ActivityHour
-2022/08/24,6174.8,"41 minutes, 36 seconds",2496,Run,15:55
-2022/08/25,491.3,"9 minutes, 57 seconds",597,Ride,3:20
-2022/08/26,1587.7,13 minutes,780,Ride,3:52
-2022/08/26,6234.5,"34 minutes, 59 seconds",2099,Run,15:43
-2022/08/26,1998,"8 minutes, 29 seconds",509,Ride,18:22
-2022/08/27,1834.2,"1 hour, 7 minutes, 55 seconds",4075,Hike,20:04
-2022/08/30,1237.2,"5 minutes, 19 seconds",319,Ride,1:29
-2022/08/30,2983.9,"17 minutes, 24 seconds",1044,Run,2:55
-2022/08/30,6158.8,"41 minutes, 7 seconds",2467,Run,15:46
-2022/08/31,727.4,"2 minutes, 29 seconds",149,Ride,2:33
-2022/09/01,1572,"11 minutes, 39 seconds",699,Ride,3:55
-2022/09/01,1725.4,"7 minutes, 14 seconds",434,Ride,17:50
-2022/09/02,1014.3,"10 minutes, 16 seconds",616,Ride,1:43
-2022/09/06,6509.7,"43 minutes, 35 seconds",2615,Run,15:36
-2022/09/08,2552.4,"12 minutes, 22 seconds",742,Ride,3:41
-2022/09/09,8180.9,"45 minutes, 14 seconds",2714,Run,15:47
-2022/09/11,13084.3,"1 hour, 14 minutes, 35 seconds",4475,Run,18:07
-2022/09/13,4950,"30 minutes, 52 seconds",1852,Run,15:53
-2022/09/14,11067.2,"1 hour, 2 seconds",3602,Run,16:03
-2022/09/15,2639.3,"14 minutes, 59 seconds",899,Run,16:19
-2022/09/15,2689.4,"15 minutes, 21 seconds",921,Ride,17:45
-2022/09/16,1837.8,"6 minutes, 51 seconds",411,Ride,18:07
-2022/09/17,1413.4,"6 minutes, 11 seconds",371,Ride,2:11
-2022/09/18,17037.9,"1 hour, 36 minutes, 29 seconds",5789,Run,13:36
-2022/09/20,2491.3,"15 minutes, 3 seconds",903,Run,15:51
-2022/09/22,10768,"1 hour, 11 minutes, 11 seconds",4271,Run,15:41
-2022/09/22,2586.7,"12 minutes, 5 seconds",725,Ride,17:48
-2022/09/23,2874.9,"12 minutes, 6 seconds",726,Ride,3:24
-2022/09/23,3933.2,"24 minutes, 48 seconds",1488,Run,16:58
-2022/09/23,2942.7,"12 minutes, 3 seconds",723,Ride,18:31
-2022/09/24,2780.4,"12 minutes, 16 seconds",736,Ride,3:13
-2022/09/25,15980.8,"1 hour, 37 minutes, 33 seconds",5853,Run,18:26
-2022/09/26,4361.4,"24 minutes, 28 seconds",1468,Run,16:46
-2022/09/27,5867,"41 minutes, 44 seconds",2504,Run,16:10
-2022/09/27,2868.3,"11 minutes, 20 seconds",680,Ride,17:28
-2022/09/28,2890.6,"13 minutes, 17 seconds",797,Ride,2:54
-2022/09/29,5002.6,"27 minutes, 34 seconds",1654,Run,15:54
-2022/09/30,4620.2,"31 minutes, 54 seconds",1914,Run,16:09
-2022/10/02,10871.5,"1 hour, 6 seconds",3606,Run,19:30
-2022/10/03,2566.1,"15 minutes, 4 seconds",904,Run,16:13
-2022/10/03,2825.7,"11 minutes, 32 seconds",692,Ride,17:25
-2022/10/04,2728.8,"12 minutes, 42 seconds",762,Ride,19:14
-2022/10/05,1628.9,"6 minutes, 48 seconds",408,Ride,18:19
-2022/10/06,1388.4,"5 minutes, 12 seconds",312,Ride,1:45
-2022/10/06,3651.1,"26 minutes, 57 seconds",1617,Run,2:05
-2022/10/06,4370.3,"24 minutes, 56 seconds",1496,Run,15:58
-2022/10/09,3365.9,"18 minutes, 58 seconds",1138,Run,1:35
-2022/10/09,21177.1,"1 hour, 59 minutes, 21 seconds",7161,Run,16:19
-2022/10/18,4405.2,"23 minutes, 48 seconds",1428,Run,2:01
-2022/10/18,1251.4,"5 minutes, 10 seconds",310,Ride,17:15
-2022/10/21,4991.6,"27 minutes, 47 seconds",1667,Run,16:20
-2022/10/22,1979,"11 minutes, 43 seconds",703,Ride,3:36
-2022/10/26,6002.8,"34 minutes, 54 seconds",2094,Run,1:59
-2022/10/26,1211.6,"9 minutes, 52 seconds",592,Ride,17:06
-2022/10/27,4345.1,"30 minutes, 24 seconds",1824,Run,13:21
-2022/10/29,1970.9,"10 minutes, 17 seconds",617,Ride,3:23
-2022/10/31,1481.8,"5 minutes, 59 seconds",359,Ride,16:13
-2022/11/03,8631.5,"50 minutes, 49 seconds",3049,Run,1:04
-2022/11/03,1120.5,"5 minutes, 7 seconds",307,Ride,12:01
-2022/11/04,2416.6,"12 minutes, 42 seconds",762,Ride,1:51
-2022/11/10,5664.2,"30 minutes, 8 seconds",1808,Run,2:33
-2022/11/21,6278,"34 minutes, 10 seconds",2050,Run,19:10
-2022/11/22,5847.7,"32 minutes, 2 seconds",1922,Run,20:11
-2022/11/23,3652.5,"22 minutes, 22 seconds",1342,Run,20:31
-2022/11/27,7232.9,"41 minutes, 32 seconds",2492,Run,12:28
-2022/12/03,23089.1,"2 hours, 35 minutes, 39 seconds",9339,AlpineSki,17:29
-2022/12/05,4732.7,"25 minutes, 54 seconds",1554,Run,18:16
-2022/12/17,20185.9,"1 hour, 54 minutes, 31 seconds",6871,AlpineSki,19:26
-2022/12/17,3889.2,"1 hour, 9 minutes, 12 seconds",4152,AlpineSki,13:03
-2022/12/27,5777.7,"34 minutes, 40 seconds",2080,Run,13:07
-2023/01/03,6198.7,"35 minutes, 50 seconds",2150,Run,14:33
-2023/01/07,9008,"52 minutes, 57 seconds",3177,Run,20:01
+ActivityDate,DistanceMeters,ElapsedTime,ElapsedSeconds,Type,ActivityTime
+2022-08-24,6174.8,"41 minutes, 36 seconds",2496,Run,15:55:00
+2022-08-25,491.3,"9 minutes, 57 seconds",597,Ride,03:20:00
+2022-08-26,1587.7,13 minutes,780,Ride,03:52:00
+2022-08-26,6234.5,"34 minutes, 59 seconds",2099,Run,15:43:00
+2022-08-26,1998,"8 minutes, 29 seconds",509,Ride,18:22:00
+2022-08-27,1834.2,"1 hour, 7 minutes, 55 seconds",4075,Hike,20:04:00
+2022-08-30,1237.2,"5 minutes, 19 seconds",319,Ride,01:29:00
+2022-08-30,2983.9,"17 minutes, 24 seconds",1044,Run,02:55:00
+2022-08-30,6158.8,"41 minutes, 7 seconds",2467,Run,15:46:00
+2022-08-31,727.4,"2 minutes, 29 seconds",149,Ride,02:33:00
+2022-09-01,1572,"11 minutes, 39 seconds",699,Ride,03:55:00
+2022-09-01,1725.4,"7 minutes, 14 seconds",434,Ride,17:50:00
+2022-09-02,1014.3,"10 minutes, 16 seconds",616,Ride,01:43:00
+2022-09-06,6509.7,"43 minutes, 35 seconds",2615,Run,15:36:00
+2022-09-08,2552.4,"12 minutes, 22 seconds",742,Ride,03:41:00
+2022-09-09,8180.9,"45 minutes, 14 seconds",2714,Run,15:47:00
+2022-09-11,13084.3,"1 hour, 14 minutes, 35 seconds",4475,Run,18:07:00
+2022-09-13,4950,"30 minutes, 52 seconds",1852,Run,15:53:00
+2022-09-14,11067.2,"1 hour, 2 seconds",3602,Run,16:03:00
+2022-09-15,2639.3,"14 minutes, 59 seconds",899,Run,16:19:00
+2022-09-15,2689.4,"15 minutes, 21 seconds",921,Ride,17:45:00
+2022-09-16,1837.8,"6 minutes, 51 seconds",411,Ride,18:07:00
+2022-09-17,1413.4,"6 minutes, 11 seconds",371,Ride,02:11:00
+2022-09-18,17037.9,"1 hour, 36 minutes, 29 seconds",5789,Run,13:36:00
+2022-09-20,2491.3,"15 minutes, 3 seconds",903,Run,15:51:00
+2022-09-22,10768,"1 hour, 11 minutes, 11 seconds",4271,Run,15:41:00
+2022-09-22,2586.7,"12 minutes, 5 seconds",725,Ride,17:48:00
+2022-09-23,2874.9,"12 minutes, 6 seconds",726,Ride,03:24:00
+2022-09-23,3933.2,"24 minutes, 48 seconds",1488,Run,16:58:00
+2022-09-23,2942.7,"12 minutes, 3 seconds",723,Ride,18:31:00
+2022-09-24,2780.4,"12 minutes, 16 seconds",736,Ride,03:13:00
+2022-09-25,15980.8,"1 hour, 37 minutes, 33 seconds",5853,Run,18:26:00
+2022-09-26,4361.4,"24 minutes, 28 seconds",1468,Run,16:46:00
+2022-09-27,5867,"41 minutes, 44 seconds",2504,Run,16:10:00
+2022-09-27,2868.3,"11 minutes, 20 seconds",680,Ride,17:28:00
+2022-09-28,2890.6,"13 minutes, 17 seconds",797,Ride,02:54:00
+2022-09-29,5002.6,"27 minutes, 34 seconds",1654,Run,15:54:00
+2022-09-30,4620.2,"31 minutes, 54 seconds",1914,Run,16:09:00
+2022-10-02,10871.5,"1 hour, 6 seconds",3606,Run,19:30:00
+2022-10-03,2566.1,"15 minutes, 4 seconds",904,Run,16:13:00
+2022-10-03,2825.7,"11 minutes, 32 seconds",692,Ride,17:25:00
+2022-10-04,2728.8,"12 minutes, 42 seconds",762,Ride,19:14:00
+2022-10-05,1628.9,"6 minutes, 48 seconds",408,Ride,18:19:00
+2022-10-06,1388.4,"5 minutes, 12 seconds",312,Ride,01:45:00
+2022-10-06,3651.1,"26 minutes, 57 seconds",1617,Run,02:05:00
+2022-10-06,4370.3,"24 minutes, 56 seconds",1496,Run,15:58:00
+2022-10-09,3365.9,"18 minutes, 58 seconds",1138,Run,01:35:00
+2022-10-09,21177.1,"1 hour, 59 minutes, 21 seconds",7161,Run,16:19:00
+2022-10-18,4405.2,"23 minutes, 48 seconds",1428,Run,02:01:00
+2022-10-18,1251.4,"5 minutes, 10 seconds",310,Ride,17:15:00
+2022-10-21,4991.6,"27 minutes, 47 seconds",1667,Run,16:20:00
+2022-10-22,1979,"11 minutes, 43 seconds",703,Ride,03:36:00
+2022-10-26,6002.8,"34 minutes, 54 seconds",2094,Run,01:59:00
+2022-10-26,1211.6,"9 minutes, 52 seconds",592,Ride,17:06:00
+2022-10-27,4345.1,"30 minutes, 24 seconds",1824,Run,13:21:00
+2022-10-29,1970.9,"10 minutes, 17 seconds",617,Ride,03:23:00
+2022-10-31,1481.8,"5 minutes, 59 seconds",359,Ride,16:13:00
+2022-11-03,8631.5,"50 minutes, 49 seconds",3049,Run,01:04:00
+2022-11-03,1120.5,"5 minutes, 7 seconds",307,Ride,12:01:00
+2022-11-04,2416.6,"12 minutes, 42 seconds",762,Ride,01:51:00
+2022-11-10,5664.2,"30 minutes, 8 seconds",1808,Run,02:33:00
+2022-11-21,6278,"34 minutes, 10 seconds",2050,Run,19:10:00
+2022-11-22,5847.7,"32 minutes, 2 seconds",1922,Run,20:11:00
+2022-11-23,3652.5,"22 minutes, 22 seconds",1342,Run,20:31:00
+2022-11-27,7232.9,"41 minutes, 32 seconds",2492,Run,12:28:00
+2022-12-03,23089.1,"2 hours, 35 minutes, 39 seconds",9339,AlpineSki,17:29:00
+2022-12-05,4732.7,"25 minutes, 54 seconds",1554,Run,18:16:00
+2022-12-17,20185.9,"1 hour, 54 minutes, 31 seconds",6871,AlpineSki,19:26:00
+2022-12-17,3889.2,"1 hour, 9 minutes, 12 seconds",4152,AlpineSki,13:03:00
+2022-12-27,5777.7,"34 minutes, 40 seconds",2080,Run,13:07:00
+2023-01-03,6198.7,"35 minutes, 50 seconds",2150,Run,14:33:00
+2023-01-07,9008,"52 minutes, 57 seconds",3177,Run,20:01:00
