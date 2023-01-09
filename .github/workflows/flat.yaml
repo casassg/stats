@@ -12,12 +12,10 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-      # Check out the repository so it can read the files inside of it and do other operations
       - name: Check out repo
         uses: actions/checkout@v2
-      # The Flat Action step. We fetch the data in the http_url and save it as downloaded_filename
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url: https://docs.google.com/spreadsheets/d/1hQwF3sVDmqJ9rjAku9TIGDjpqrkhtO1QUyvLb5d2QFc/export?format=csv # THE URL YOU WISH TO FETCH GOES HERE
+          http_url: https://docs.google.com/spreadsheets/d/1hQwF3sVDmqJ9rjAku9TIGDjpqrkhtO1QUyvLb5d2QFc/export?format=csv&gid=1980723697
           downloaded_filename: strava.csv
