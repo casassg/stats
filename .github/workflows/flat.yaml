@@ -7,15 +7,36 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '*/30 * * * *'
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "fetch"
+  cancel-in-progress: true
 
 jobs:
   fetch:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Check out repo
         uses: actions/checkout@v2
+      - name: Setup Pages
+        uses: actions/configure-pages@v2
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
           http_url: https://docs.google.com/spreadsheets/d/1hQwF3sVDmqJ9rjAku9TIGDjpqrkhtO1QUyvLb5d2QFc/export?format=csv&gid=1980723697
           downloaded_filename: strava.csv
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          # Upload entire repository
+          path: '.'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
