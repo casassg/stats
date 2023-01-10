@@ -11,7 +11,11 @@ on:
 concurrency:
   group: "fetch"
   cancel-in-progress: true
-
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  
 jobs:
   fetch:
     environment:
